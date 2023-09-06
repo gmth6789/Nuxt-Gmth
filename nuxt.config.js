@@ -1,7 +1,7 @@
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Nuxt Starter',
+    title: 'แพลตฟอร์มสร้างรายได้ออนไลน์ฟรี',
     htmlAttrs: {
       lang: 'en'
     },

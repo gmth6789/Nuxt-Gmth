@@ -14,14 +14,12 @@
         >
           Documentation
         </a>
-        <a
-          href="https://github.com/nuxt/nuxt.js"
-          target="_blank"
-          rel="noopener noreferrer"
-          class="button--grey"
-        >
-          GitHub
-        </a>
+     <NuxtLink to="/gm99">
+     admin
+     </NuxtLink>
+      <NuxtLink to="/agent">
+     agent
+     </NuxtLink>
       </div>
     </div>
   </div>
